@@ -27,6 +27,7 @@ jobs:
     
     # Install SFDX CLI
     - name: Install SFDX CLI
+      run: npm install sfdx-cli --location=global
     
 
     # Authorize SF Org
