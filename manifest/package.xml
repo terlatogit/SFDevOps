@@ -463,12 +463,6 @@
     <name>ListView</name>
   </types>
   <types>
-    <members>cms_document</members>
-    <members>cms_image</members>
-    <members>news</members>
-    <name>ManagedContentTypeBundle</name>
-  </types>
-  <types>
     <members>Account.Standard_Account_Match_Rule_v1_0</members>
     <members>Contact.Standard_Contact_Match_Rule_v1_1</members>
     <members>Lead.Standard_Lead_Match_Rule_v1_0</members>
